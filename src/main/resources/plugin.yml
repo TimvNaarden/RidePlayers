@@ -1,0 +1,6 @@
+name: RidePlayers
+version: '${project.version}'
+main: me.Tim.RidePlayers
+api-version: 1.19
+authors: [ Tim ]
+description: A simple plugin that allows you to ride players
